@@ -34,6 +34,7 @@ namespace PayrollMSsample
         {
             string usertype;
             string username;
+            string usertest;
             string userpassword;
 
             usertype = comtype.SelectedItem.ToString();
